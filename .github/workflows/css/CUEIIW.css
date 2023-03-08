@@ -1,0 +1,211 @@
+@font-face{
+    font-family:"futura-PT";
+    src:url("../font/futura/futura_medium_bt.ttf");
+}
+@font-face{
+    font-family:"futura-PT-light";
+    src:url("../font/futura/futura_light_bt.ttf");
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url("../images/pexels-gradienta-7130469.jpg");
+    background-size: cover;
+}
+.top_bar{
+    background-color: darkblue;
+    grid-template-columns: 96% 4%;
+    margin: 0px;
+    padding: 5px;
+    display: grid;
+    z-index: 1000;
+    font-family: "futura-PT";
+}
+.top_div{
+    color: whitesmoke;
+    font-size: 36px;
+    min-width: max-content;
+    display: grid;
+    grid-template-columns: max-content max-content;
+}
+.inner_top_div{
+    font-size: 22px;
+    max-width: max-content;
+    display: inline-block;
+    background-position: center;
+    margin-top: 15px;
+}
+.main_body{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 10px;
+    grid-column-gap: 50px;
+    margin-top: 50px;
+}
+.img_space{
+    min-width: 90%;
+    min-height: 90%;
+    max-width: 90%;
+    max-height: 90%;
+    background-image: url("../images/document-g57b8aef88_1920.jpg");
+    background-size: cover;
+    background-position: center;
+    display: grid;
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.66);
+}
+.img_display{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    max-width: 90%;
+    min-height: 70%;
+    max-height: 80%;
+    align-self: center;
+    background-size: cover;
+    object-fit: contain;
+}
+.other_content{
+    min-width: 50%;
+}
+.generate_rand_img{
+    background-color: darkblue;
+    color: whitesmoke;
+    font-size: 52px;
+    padding: 12px;
+    font-family: "futura-PT";
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px black;
+}
+.generate_rand_img:hover{
+    background-color: rgb(29, 29, 159);
+    color: rgb(208, 207, 207);
+    box-shadow: 5px 5px rgb(16, 16, 16);
+}
+.sources{
+    font-size: 58px;
+    font-family: "futura-PT-light";
+    margin-bottom: 10px;
+}
+.purpose{
+    font-size: 32px;
+    font-family: "futura-PT-light";
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.web_button{
+    font-size: 18px;
+    max-width: max-content;
+    background-color: darkblue;
+    border-radius: 3px;
+    padding: 1px;
+    color: whitesmoke;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+    body{
+        padding: 0px;
+        margin: 0px;
+        background-image: url("../images/pexels-gradienta-7130469.jpg");
+        background-size: cover;
+    }
+    .top_bar{
+        background-color: darkblue;
+        grid-template-columns: 75% 15%;
+        margin: 0px;
+        padding: 5px;
+        display: grid;
+        z-index: 1000;
+        font-family: "futura-PT";
+        min-width: 115%
+    }
+    .top_div{
+        color: whitesmoke;
+        font-size: 18px;
+        min-width: max-content;
+        display: block;
+    }
+    .inner_top_div{
+        font-size: 14px;
+        max-width: max-content;
+        bottom: 0px;
+        margin-top: 0px;
+    }
+    .main_body{
+        display: grid;
+        grid-template-rows: auto auto;
+        grid-template-columns: auto;
+        padding: 5px;
+        grid-row-gap: 25px;
+        margin-top: 25px;
+    }
+    .img_space{
+        min-width: 100%;
+        max-height: 100%;
+        min-height: 100%;
+        min-height: 540px;
+        background-image: url("../images/document-g57b8aef88_1920.jpg");
+        background-size: cover;
+        background-position: center;
+        display: grid;
+        box-shadow: 3px 3px 9px 3px rgba(0, 0, 0, 0.66);
+    }
+    .img_display{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
+        margin-bottom: auto;
+        max-width: 90%;
+        min-height: 90%;
+        max-height: 90%;
+        max-height: 540px;
+        align-self: center;
+        background-size: cover;
+        object-fit: contain;
+    }
+    .other_content{
+        margin-top: 15px;
+        min-width: 100%;
+    }
+    .generate_rand_img{
+        background-color: darkblue;
+        color: whitesmoke;
+        font-size: 24px;
+        padding: 2px;
+        font-family: "futura-PT";
+        border-radius: 10px;
+        margin-bottom: 5px;
+        box-shadow: 3px 3px black;
+    }
+    .sources{
+        font-size: 32px;
+        font-family: "futura-PT-light";
+        margin-bottom: 5px;
+    }
+    .purpose{
+        font-size: 18px;
+        font-family: "futura-PT-light";
+        margin-right: 5px;
+        margin-left: 5px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    .web_button{
+        font-size: 12px;
+        max-width: max-content;
+        background-color: darkblue;
+        border-radius: 3px;
+        padding: 1px;
+        color: whitesmoke;
+        margin-top: 15px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+}
