@@ -1,0 +1,32 @@
+{
+    "0":{
+        "source":"../images/testing/Abstract_Creature.png",
+        "artist":"Me",
+        "quoter":"???"
+    },
+    "1":{
+        "source":"../images/testing/Album_Cover_Simple.png",
+        "artist":"Me",
+        "quoter":"????"
+    },
+    "2":{
+        "source":"../images/testing/KYAnimationTask1_TGJ4MBlender.png",
+        "artist":"Me",
+        "quoter":"?????"
+    },
+    "3":{
+        "source":"../images/testing/Red_Headshot_solo_Prac.gif",
+        "artist":"Me",
+        "quoter":"??????"
+    },
+    "4":{
+        "source":"../images/testing/Sufferance_Website_Icon.png",
+        "artist":"Me",
+        "quoter":"????"
+    },
+    "5":{
+        "source":"../images/testing/TGJ3MISP-Deliverable-StudioGhibliStyleShort.mp4",
+        "artist":"Me (Inspired by Studio Ghibli)",
+        "quoter":"?"
+    }
+}
