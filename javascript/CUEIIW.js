@@ -8,7 +8,7 @@
 var image_library = null;
 
 function pageLoad(page){
-    $.getJSON("javascript/image_library_concept.json", function(json) {
+    $.getJSON("javascript/image_library.json", function(json) {
         //console.log(json);
         image_library = json;
 
