@@ -1,3 +1,72 @@
 {
-    
+    "0":{
+        "source":"../images/rand_img/Art Installation ISP Quote 31.jpg",
+        "artist":"Betty Liu",
+        "quoter":"Norman Vincent Peale"
+    },
+    "1":{
+        "source":"../images/rand_img/Art Installation ISP Quote 24.gif",
+        "artist":"Mandy Yuan",
+        "quoter":"Newton"
+    },
+    "2":{
+        "source":"../images/rand_img/Art Installation ISP Quote 30.jpg",
+        "artist":"Betty Liu",
+        "quoter":"Da Vinci"
+    },
+    "3":{
+        "source":"../images/rand_img/Art Installation ISP Quote 32.jpg",
+        "artist":"Betty Liu",
+        "quoter":"Brad Paisley"
+    },
+    "4":{
+        "source":"../images/rand_img/Art Installation ISP Quote 34.jpg",
+        "artist":"Betty Liu",
+        "quoter":"George Bernard Shaw"
+    },
+    "5":{
+        "source":"../images/rand_img/Art Installation ISP Quote 35.jpg",
+        "artist":"Betty Liu",
+        "quoter":"Source Unknown"
+    },
+    "6":{
+        "source":"../images/rand_img/Art Installation ISP Quote 36.jpg",
+        "artist":"Betty Liu",
+        "quoter":"Source Unknown"
+    },
+    "7":{
+        "source":"../images/rand_img/Art Installation ISP Quote 37.jpg",
+        "artist":"Betty Liu",
+        "quoter":"Confucius"
+    },
+    "8":{
+        "source":"../images/rand_img/Art Installation ISP Quote 40.jpg",
+        "artist":"Betty Liu",
+        "quoter":"George Reeves"
+    },
+    "9":{
+        "source":"../images/rand_img/Art Installation ISP Quote 41.jpg",
+        "artist":"Betty Liu",
+        "quoter":"Source Unknown"
+    },
+    "10":{
+        "source":"../images/rand_img/Art Installation ISP Quote 42.jpg",
+        "artist":"Betty Liu",
+        "quoter":"Aristotle"
+    },
+    "11":{
+        "source":"../images/rand_img/Art Installation ISP Quote 47 [upscale].png",
+        "artist":"Kyle Yep",
+        "quoter":"Sri Sri Ravi Shankar"
+    },
+    "12":{
+        "source":"../images/rand_img/Art Installation ISP Quote 48 [upscale].png",
+        "artist":"Kyle Yep",
+        "quoter":"Source Unknown"
+    },
+    "13":{
+        "source":"../images/rand_img/Art Installation ISP Quote 50 [upscale].png",
+        "artist":"Kyle Yep",
+        "quoter":"Source Unknown"
+    }
 }
